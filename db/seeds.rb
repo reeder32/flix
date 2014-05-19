@@ -21,7 +21,7 @@ Movie.create!([
     duration: '126 min',
     director: 'Jon Favreau',
     rating: 'PG-13',
-    total_gross: 318_412_101
+    total_gross: 318412101
   },
   {
     title: 'Superman',
@@ -37,7 +37,7 @@ Movie.create!([
     duration: '143 min',
     director: 'Richard Donner',
     rating: 'PG',
-    total_gross: 134_218_018
+    total_gross: 134218018
   },
   {
     title: 'Spider-Man',
@@ -54,7 +54,7 @@ Movie.create!([
     duration: '121 min',
     director: 'Sam Raimi',
     rating: 'PG-13',
-    total_gross: 403_706_375
+    total_gross: 403706375
   },
   {
     title: 'Batman',
@@ -69,7 +69,7 @@ Movie.create!([
     duration: '126 min',
     director: 'Tim Burton',
     rating: 'PG-13',
-    total_gross: 251_188_924
+    total_gross: 251188924
   },
   {
     title: "Catwoman",
@@ -100,6 +100,6 @@ Movie.create!([
     duration: '211 min',
     director: 'Ishiro Honda',
     rating: 'PG-13',
-    total_gross: 387_623_910
+    total_gross: 387623910
   }
 ])
