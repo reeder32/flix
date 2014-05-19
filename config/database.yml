@@ -19,6 +19,7 @@ test:
   timeout: 5000
 
 production:
+  url: <%= ENV['DATABASE_URL'] %>	
   adapter: sqlite3
   database: db/production.sqlite3
   pool: 5
